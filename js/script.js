@@ -17,7 +17,7 @@
  * When the website is backed up with a soul-stirring track, the feeling becomes absolutely surreal. 
  * Choose a heart-touching track! 🎵 ❤️
  *
- * Listen here: https://youtu.be/X0MDALpV29s
+ * Listen here: https://www.youtube.com/watch?v=XIXbuNpO-a4
  *
  */
 $(document).on('click', function(){
@@ -26,7 +26,7 @@ $(document).on('click', function(){
 });
 
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
+var countDownDate = new Date("June 14, 2021 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
